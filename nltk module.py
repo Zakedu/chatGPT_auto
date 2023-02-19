@@ -4,19 +4,21 @@ import openpyxl
 from collections import Counter
 from nltk.corpus import wordnet
 
-# Open the input file and read the words
+# TXT 파일에 추가되어있는 단어 리스트를 읽어온다.
 with open('Word.txt', 'r') as f:
     words = f.read().splitlines()
 
-# Initialize an empty list to store the data
+# 데이터 저장할 리스트 지정
 word_data = []
 
-# Loop through each word and get the parts of speech, definition, synonyms, antonyms, and sample sentences
+# 각 단어에 대한 품사, 뜻(dfnt), 유의어, 반의어, 그리고 예시 문장을 찾는다. 
+
 for i, word in enumerate(words):
-    # Initialize an empty list to store the data for each part of speech for this word
+
+    # 각 단어에 대해 품사 별 단어 리스트를 넣을 리스트 생성 
     pos_data = []
 
-    # Get the parts of speech by frequency using NLTK
+    # NLTK 모듈 활용해서 빈도에 따른 품사 별 단어 정보 모으기
     synsets = wordnet.synsets(word)
     if synsets:
         pos_counts = Counter(syn.pos() for syn in synsets)
@@ -24,12 +26,12 @@ for i, word in enumerate(words):
         for pos in top_parts_of_speech:
             pos_dict = {'Part of Speech': pos}
 
-            # Get the definition using NLTK
+            # NLTK 속 단어의 정의(뜻) 불러오기
             pos_synsets = [syn for syn in synsets if syn.pos() == pos]
             if pos_synsets:
                 pos_dict['Meaning'] = pos_synsets[0].definition()
 
-            # Get the synonyms and antonyms using NLTK
+            # NLTK 속 유의어, 반의어 불러오기
             synonyms = set()
             antonyms = set()
             for syn in pos_synsets:
@@ -39,11 +41,11 @@ for i, word in enumerate(words):
                         if lemma.antonyms():
                             antonyms.add(lemma.antonyms()[0].name())
 
-            # Add the synonyms and antonyms to the part of speech data
-            pos_dict['Synonyms'] = ', '.join(sorted(synonyms)[:3])
+            # 각 품사에 대한 반의어 유의어 찾아내기
             pos_dict['Antonyms'] = ', '.join(sorted(antonyms)[:2])
+            pos_dict['Synonyms'] = ', '.join(sorted(synonyms)[:3])
 
-            # Get the sample sentences using NLTK
+            # NLTK 속 예문 불러오기
             sentences = []
             for syn in pos_synsets:
                 for lemma in syn.lemmas():
@@ -51,23 +53,23 @@ for i, word in enumerate(words):
                         for example in lemma.synset().examples():
                             sentences.append(example)
 
-            # Add the sample sentences to the part of speech data
+            # 각 품사 데이터 속 예문 불러오기
             pos_dict['Sample Sentence'] = ', '.join(sentences[:3])
 
-            # Add the part of speech data to the list of data for this word
+            # 이 단어에 대한 품사 정보 모은 것을 리스트에 넣기
             pos_data.append(pos_dict)
 
-    # Add the word and part of speech data to the list of all word data
+    # 모든 단어 정보를 단어와 품사 리스트에 넣기
     word_data.append({'Word': word, 'Number': i + 1, 'Parts of Speech': pos_data})
 
-# Initialize a new workbook and worksheet to store the data
+# 단어 정보를 새로운 WB와 WS에 이니셜라이즈 
 workbook = openpyxl.Workbook()
 worksheet = workbook.active
 
-# Write the headers to the first row of the worksheet
+# 워크시트 첫번째 행에 열 값 정의
 worksheet.append(['Number', 'Word', 'Part of Speech', 'Meaning', 'Antonyms', 'Synonyms', 'Sample Sentence'])
 
-# Loop through the word data and write it to the worksheet
+# 단어 데이터를 단어 정보에 돌아가며 저장하기
 for word_dict in word_data:
     for pos_dict in word_dict['Parts of Speech']:
         worksheet.append([word_dict.get('Number', ''),
@@ -78,5 +80,4 @@ for word_dict in word_data:
                           pos_dict.get('Synonyms', ''),
                           pos_dict.get('Sample Sentence', '')])
 
-# Save the workbook to a file
 workbook.save('word_nltk.xlsx')
