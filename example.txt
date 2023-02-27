@@ -1,0 +1,831 @@
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_1번문항
+
+[문제]
+다음 중 단어의 뜻이 바르게 연결된 것을 있는 대로 고른 것은?
+
+ⓐ manage - 집중하다
+ⓑ bored - 지루한
+ⓒ downtime - 다운로드하다 
+ⓓ stressful – 스트레스가 많은
+ⓔ worry - 기억하다
+ⓕ add – 유지하다
+ⓖ historical – 역사에 남을만한
+
+⓵ ⓐ, ⓑ
+⓶ ⓓ, ⓔ
+⓷ ⓑ, ⓓ, ⓖ
+⓸ ⓑ, ⓓ, ⓕ, ⓗ
+⓹ ⓐ, ⓑ, ⓒ, ⓓ, ⓔ
+
+[선지배열]
+2
+
+[문항코드]
+
+
+[정답]
+⓷
+
+[채점수식]
+3
+
+[해설]
+ⓐ manage : 관리하다 (cf. focus : 집중하다)
+ⓒ downtime : 휴식시간 (cf. download : 다운로드하다)
+ⓔ worry : 걱정하다 (cf. remember : 기억하다)
+ⓕ add : 더하다 (cf. keep : 유지하다)
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_2번문항
+
+[문제]
+다음 중 밑줄 친 단어의 쓰임이 어색한 것은?
+⓵ I subscribe to a bicycle magazine.
+⓶ How often do you text your friends a day?
+⓷ Try to relax when your life is too stressful.
+⓸ I’ll finish my book report soon.
+⓹ I shouldn’t save money to buy a new laptop computer.
+
+[문항코드]
+
+
+[정답]
+⓹
+
+[채점수식]
+5
+
+[해설]
+save → waste : ‘새로운 노트북 컴퓨터를 사기 위해서’라면 돈을 저축해서는 안 되는 것이 아니라, 낭비해서는 안 되므로 조동사 부정형 shouldn’t 뒤에 save(저축하다)가 아닌 waste(낭비하다)가 어울린다.
+⓵ 나는 자전거 잡지를 구독한다.
+⓶ 하루에 얼마나 자주 친구들에게 문자 메시지를 보내니?
+⓷ 삶이 너무 스트레스를 받게 할 때는 휴식을 취하려 해보세요.
+⓸ 나는 곧 독후감을 작성하는 것을 끝낼 것이다.
+⓹ 나는 새로운 노트북 컴퓨터를 사려면 돈을 저축해서는 안 된다. (→ 낭비해서는)
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_3~6번 문항
+
+[대발문]
+다음 대화를 읽고 물음에 답하시오.
+
+[대발문코드]
+
+[문항수]
+4
+
+[지문]
+Minsol : Kevin, do you have a special goal for the year?
+Kevin : Yeah, I want to win a gold medal in the national swimming contest.
+Minsol : Cool!
+Kevin : (A)______________, Minsol?
+Minsol : I’d like to manage my time better.
+Kevin : How would you ⓐ_______ your goal?
+Minsol : I’m planning to make a daily and weekly schedule.
+Kevin : (B) Sounds good.
+
+[문제]
+빈칸 (A)에 들어갈 말로 알맞은 것은?
+⓵ What’s wrong
+⓶ What about you
+⓷ How does it sound
+⓸ What time do you go to school
+⓹ Do you make a daily and weekly schedule
+
+[문항코드]
+
+
+[정답]
+⓶
+
+[채점수식]
+2
+
+[해설]
+민솔이가 Kevin에게 한 해 동안 이루고 싶은 목표가 있느냐고 질문하자 Kevin이 ‘전국 수영 대회에서 금메달을 따는 것’이라는 목표로 대답한 후, 빈칸 이후에 민솔이가 ‘시간관리를 더 잘 하는 것’이라는 자신의 목표를 말하도록 같은 질문을 되묻는 ⓶ ‘너는 어때?’가 어울린다.
+⓵ 무슨 일이야?
+⓷ 어떤 것 같아?
+⓸ 학교에 몇 시에 가니?
+⓹ 너는 매일 또는 매주의 계획을 세우니?
+
+[문제]
+문맥상 빈칸 ⓐ에 들어갈 단어로 알맞은 것은?
+⓵ achieve
+⓶ make
+⓷ plan
+⓸ ruin
+⓹ work
+
+[선지배열]
+3
+
+[문항코드]
+
+
+[정답]
+⓵
+
+[채점수식]
+1
+
+[해설]
+명사 goal(목표)와 잘 어울리면서, 문맥상 ‘일간, 주간 계획을 세우려고 하고 있다’는 목표 달성을 위한 계획에 대한 대답을 이끌어 내려면, 빈칸에는 achieve(달성하다)가 잘 어울린다. make a goal(축구 등에서 골을 넣다)은 goal과는 어울리지만 목표에 해당하는 내용은 아니므로 빈칸에 들어가기에는 알맞지 않다. plan(계획하다), ruin(망치다), work(작업하다)는 여기에서 명사 goal을 목적어로 가지기에는 적합하지 않다.
+
+[문제]
+주어진 대화를 읽고 알 수 있는 것은?
+⓵ Kevin이 작년에 세운 목표의 달성여부
+⓶ 민솔이가 주말에 하려는 일
+⓷ Kevin이 참가하려는 대회의 종목
+⓸ 민솔이가 휴식 시간에 하는 일
+⓹ Kevin이 좋아하는 노래
+
+[문항코드]
+
+
+[정답]
+⓷
+
+[채점수식]
+3
+
+[해설]
+⓵ 올해의 특별한 계획(a special plan for the year)만 말하고 있음
+⓷ Kevin이 참가하려는 대회의 종목 → 수영 대회
+
+[문제]
+밑줄 친 (B)와 바꿔 쓰기에 알맞지 않은 것은?
+⓵ Good idea.
+⓶ Great idea.
+⓷ I’m doing great.
+⓸ That sounds great.
+⓹ That’s a good idea.
+
+[문항코드]
+
+
+[선지배열]
+2
+
+[정답]
+⓷
+
+[채점수식]
+3
+
+[해설]
+밑줄 친 (B) Sounds good 은 ‘좋은 생각이다’라며 상대방의 말에 아주 긍정적으로 동의하는 응답으로, That sounds good 으로 주어와 함께 쓸 수도 있고, That’s a good idea 로 ‘좋은 생각이다’로 풀어서도 사용한다. good 대신에 great, awesome 등의 ‘좋다’는 의미의 다른 형용사를 함께 써도 같은 의미이다. 
+⓵ 좋아. → 긍정적으로 동의
+⓶ 좋은 생각이야. → 긍정적으로 동의
+⓷ 나는 잘 지내고 있어. (cf. I’m doing good. / I’m doing great. / I’m doing well. 모두 건강, 일상면에서 잘 지내고 있을 때 사용한다.)
+⓸ (그것은) 좋은 생각이다.
+⓹ (그것은) 좋은 생각이다.
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_7번문항
+
+[문제]
+다음 중 우리말의 영어 표현이 어색한 것은?
+
+①
+너 우울해 보인다.
+→ You look down.
+
+②
+토요일에 보자.
+→ I’ll see you on Saturday.
+
+③
+야구모자를 가져가는 게 좋을거야. 
+→ You should bring your cap. 
+
+④
+나는 친환경적인 사람이 되고 싶어.
+→ I’d like to be an eco-friendly person.
+
+⑤
+너는 밖에 나가기 전에 선크림 왜 안 바르니? 
+→ Why don’t you put on sunscreen before you leave?
+
+
+
+[문항코드]
+
+
+[정답]
+⓹
+
+[채점수식]
+5
+
+[해설]
+‘Why don’t you + 동사원형...?’은 ‘왜 ...하지 않느냐?’고 이유를 묻는 것이 아니라 상대방에게 ‘...하는 게 어때?’라고 권유하는 표현이다.
+⓹ 밖에 나가기 전에 선크림을 바르는게 어때?
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_8~9번문항
+
+[대발문]
+다음 대화를 읽고 물음에 답하시오.
+
+[대발문코드]
+
+
+[문항수]
+2
+
+[지문]
+B : What are you going to do this weekend, Mina?
+(A) That sounds great. Do you have any plans in Yeosu?
+(B) That’ll be fun. Enjoy your weekend. 
+(C) Well, we’ll visit Yeosu Expo Park and eat some seafood.
+(D) I’m planning to visit Yeosu with my aunt.
+
+[문제]
+소년의 말 뒤에 이어질 (A)~(D)를 바르게 배열한 것은?
+⓵ (A)-(B)-(C)-(D)
+⓶ (B)-(C)-(A)-(D)
+⓷ (C)-(B)-(D)-(A)
+⓸ (C)-(D)-(A)-(B)
+⓹ (D)-(A)-(C)-(B)
+
+[선지배열]
+2
+
+[문항코드]
+
+
+[정답]
+⓹
+
+[채점수식]
+5
+
+[해설]
+소년이 미나에게 ‘이번 주말에 무엇을 하려고 하는지’를물었으므로, 우선 주말 계획이 될 수 있는 (C) 글쎄, 우리는 여수 엑스포 공원에 가고 해산물을 좀 먹을거야, (D) 나는 우리 고모와 여수에 가려고 계획하고 있어. 의 두 문장이 맨 처음에 올 수 있을 것인데, (A)에서 ‘여수에서 어떤 할 일이 있는지’를 물어보는 것에 대한 대답이 (C)가 되어야 할 것이므로 ‘여수에 가는 것’에 대해 처음으로 언급하는 것으로부터 (D)-(A)-(C)-(B) 순서대로 이어지는 대화가 가장 적절하다. 
+미나야, 이번 주말에 너 무엇을 할 것이니? - (D) 나는 우리 고모와 여수에 가려고 계획하고 있어. - (A) 좋은 생각이네. 여수에서 뭘 할지 일정은 세웠어? - (C) 음, 우리는 여수 엑스포 공원에 가고 해산물을 먹을거야. - (B) 그거 재미있겠다. 주말 잘 보내.
+[문제]
+다음은 여수 여행을 하고 돌아오는 기차에서 미나가 SNS에 올린 내용이다. 밑줄 친 ⓐ~ⓔ 중 어색한 것은?
+
+I ⓐvisited Yeosu with my aunt ⓑthis weekend. In Yeosu, we ⓒwent to Yeosu Expo Park first, and it was really ⓓfunny. Then we ⓔhad some seafood. I had a great time with my aunt.
+
+① ⓐ
+② ⓑ
+③ ⓒ
+④ ⓓ
+⑤ ⓔ
+
+[선지배열]
+5
+
+[문항코드]
+
+
+[정답]
+⓸
+
+[채점수식]
+4
+
+[해설]
+여수 여행에서 엑스포 공원을 방문했고, 방문한 일 자체가 즐겁고 재미있는 경험이었어야 하므로 ⓓ의 funny를 fun으로 고쳐야 한다. (cf. fun : 어떤 일로 즐거운, funny : 사람, 영화, 만화 등이 재미있는, 재미나 웃음을 주는, 웃기는) 
+ⓐ visited : ~에 방문하다 (목적어를 동반한다.)
+ⓑ this weekend : 돌아오는 기차 안에서 올린 글이라면 아직까지 그주 주말에 해당하므로 last weekend(지난 주말)가 아니라 this weekend(이번 주말)이 잘 어울린다.
+ⓒ went : ⓐ visited와는 달리 자동사인 went(원형 – go)는 전치사 to와 함께 쓴다.
+ⓔ had : 여기에서 have는 먹다(eat)는 의미를 가진다.
+• 나는 이번 주말에 우리 고모랑 여수에 갔다. 여수에서는, 여수 엑스포 공원부터 우선 갔고, 그것은 정말로 웃겼다. (→ 즐거웠다) 그리고 나서 우리는 해산물을 좀 먹었다. 나는 우리 고모와 즐거운 시간을 보냈다.
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_10~12번 문항
+
+[대발문]
+다음 대화를 읽고 물음에 답하시오.
+
+[대발문코드]
+
+[문항수]
+3
+
+[지문] 
+G : You look down, Yunsu. What’s the problem?
+B : I have a science project, and I don’t have any ideas.
+G : (A)Why don’t you read science magazines in the library?
+B : Science magazines?
+G : Sure. You can get some great ideas (B)that way.
+
+[문제]
+대화의 밑줄 친 (A)의 의도로 알맞은 것은?
+⓵ 권유하기
+⓶ 이유 묻기
+⓷ 정보 묻기
+⓸ 설명 요청하기
+⓹ 바라는 것 묻기
+
+[선지배열]
+2
+
+[문항코드]
+
+
+[정답]
+⓵
+
+[채점수식]
+1
+
+[해설]
+「Why don’t you + 동사원형?」은 ‘~하는게 어때?’라는 의미로, 상대방에게 권유할 때 사용하는 표현이다.
+
+[문제]
+빈칸 (B)가 가리키는 말을 <조건>에 맞게 작성하시오.
+
+<조건> 
+• by로 시작하는 전치사구 형태가 되도록 할 것
+• 대화문에서 필요한 단어를 찾아 쓸 것
+• 7단어로 완성할 것
+
+
+[문항코드]
+
+
+[정답]
+by reading science magazines in the library
+
+[채점수식]
+by reading science magazines in the library
+
+[해설]
+전치사 by는 ‘~함으로써’라는 의미로 수단이나 방법을 나타낸다. 이 대화의 that way(그 방법으로)가 뜻하는 방식을 설명하기 위해 앞에서 권유한 내용 read science magazines in the library(도서관에서 과학잡지를 읽다) 앞에 by를 쓰고 동사구를 동명사로 변형한다.
+• (B)그 방법으로 = 도서관에서 과학 잡지를 읽음으로써
+
+[OMR뷰어]
+⌧
+
+[문제]
+대화를 읽고 주어진 질문에 우리말로 답하시오.
+
+Q : What is the problem Yunsu has?
+
+
+[문항코드]
+
+
+[정답]
+윤수는 과학 프로젝트를 해야하는데 (어떤 주제로 해야할지) 떠오르는 아이디어가 없다.
+
+[해설]
+소녀가 우울해 보인다면서 윤수에게 ‘무엇이 문제인지(What’s the problem?)’를 묻고 윤수는 고민을 이야기한다.
+• 윤수가 가진 고민거리가 무엇인가?
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_13~15문항
+
+[대발문]
+다음 대화를 읽고 물음에 답하시오.
+
+[대발문코드]
+
+[문항수]
+3
+
+[지문]
+G : Can I talk with you for a minute, Minsu?
+B : Sure. What is it?
+G : (A)I’m working on my weekly schedule.
+B : Really? (B)Good for you, little sister.
+G : Here. (C)Have a look and (D)give me some advice.
+B : Hmm, you have a lot of study time.
+G : Yeah, (E)I’m planning to study hard.
+B : Why don’t you (가)add some downtime?
+G : Downtime?
+B : Yeah, I mean you need to relax once in a while.
+
+[문제]
+밑줄 친 (A)~(E)을 해석한 것으로 바르지 않은 것은?
+⓵ (A) : 나는 ~에서 일하고 있어
+⓶ (B) : 잘 했어
+⓷ (C) : 한번 살펴봐
+⓸ (D) : 내게 조언을 좀 해줘
+⓹ (E) : 나는 계획하고 있어
+
+[문항코드]
+
+
+[정답]
+⓵
+
+[채점수식]
+1
+
+[해설]
+(A) work on은 ‘~를 작업하다’라는 의미이고, 보기의 ‘~에서 일하고 있다’는 의미는 work for로 나타낸다.
+
+[문제]
+밑줄 친 (A)와 같은 뜻을 가진 말을 주어진 대화에서 찾아 5단어로 쓰시오.
+
+[문항코드]
+
+
+[정답]
+relax once in a while
+
+[채점수식]
+relax once in a while
+
+[OMR뷰어]
+⌧
+
+[해설]
+(가) add some downtime는 문맥상 ‘휴식시간을 좀 더하다’라는 뜻으로, 같은 내용을 다시 한번 설명하는 다음 문장의 relax once in a while(어쩌다 한번씩 휴식을 취하다)와 같은 내용으로 볼 수 있다.
+
+[문제]
+이 대화의 내용과 일치하지 않는 것은?
+⓵ 소년과 소녀는 남매관계이다.
+⓶ 소녀가 소년보다 더 나이가 많다.
+⓷ 소녀가 세운 계획표는 불균형한 부분이 있다.
+⓸ 소녀는 공부를 열심히 하는 것을 목표로 한다.
+⓹ 소년은 공부할 때에도 휴식시간이 필요하다고 생각한다.
+
+[문항코드]
+
+
+[정답]
+⓶
+
+[채점수식]
+2
+
+[해설]
+소년이 소녀를 little sister라고 부르므로, 소년과 소년은 오빠-여동생 관계임을 알 수 있다. 따라서 소녀가 소년보다 나이가 많다고는 내용은 주어진 대화와 일치하지 않는다.
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_16문항
+
+[지문]
+A : I’m planning to go to the ballpark this Friday.
+
+C : I think you should (B)구입하다 tickets first.
+
+[문제]
+주어진 대화에서 A가 하는 말에 B와 C가 하는 조언 내용을 완성하기 위해 우리말을 참고해 영어 단어로 쓰시오.
+
+[소문제문항수]
+2/(1)
+
+[소문제]
+B : Why don’t you 가져가다 your baseball glove? 
+
+[소문제]
+C : I think you should 구입하다 tickets first.
+
+
+[문항코드]
+
+
+[정답]
+(1) take (2) buy
+
+[채점수식]
+[take]§[buy]
+
+[해설]
+A가 이번 주 금요일에 야구장에 갈 계획이라고 하니, B는 야구 글러브를 가져가라고(take) 제안하고, C는 우선 티켓부터 구입하라고(buy) 제안한다. 참고로, B가 할 말에 bring은 ‘듣는 이를 기준으로 그쪽으로 가지고 오는’ 것이기 때문에 이 상황에는 적합하지 않다. 
+
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_17~18번 문항
+
+[대발문]
+다음 글을 읽고 물음에 답하시오.
+
+[대발문코드]
+
+
+[문항수]
+2
+
+[지문]
+Beginning a new school year is stressful ⓐ_____ many students. (A)어떻게 하면 잘 시작할 수 있을까? Teen Today asked Raccoon 97, a popular webtoon artist, ⓑ_____ ideas. 
+
+Let’s think ⓒ_____ things that are hard to change or easy to change.
+
+[문제]
+빈칸 ⓐ~ⓒ에 들어갈 말이 순서대로 바르게 짝지어진 것은?
+⓵ to – to – of
+⓶ to – for – of
+⓷ to – for – about
+⓸ for – about – about⓹ for – about – through
+
+[문항코드]
+
+
+[정답]
+⓷
+
+[채점수식]
+3
+
+[해설]
+ⓐ to : ~에게는 (stressful(스트레스가 많은)이라는 상태가 누구에게 받아들여지는지 그 대상을 말하므로 전치사 to가 잘 어울린다.) 
+ⓑ 「ask A for B」는 ‘A에게 B를 요청하다’는 의미를 가진다.
+ⓒ about : ~에 대해서 (think와 함께 써서 ‘~에 대해 고민하다, 생각하다’의 의미를 나타낸다.)
+
+[문제]
+밑줄 친 우리말 (A)와 일치하도록 주어진 단어를 바르게 배열하시오.
+
+we / get / start / can / how / off / good / a / to / ? 
+
+
+[문항코드]
+
+
+[정답]
+How can we get off to a good start?
+
+[채점수식]
+How can we get off to a good start?
+
+[해설]
+get off to a start는 ‘시작하다’라는 의미를 가지는 숙어 표현으로, ‘잘 시작하다’라는 의미를 위해서 명사 start를 형용사 good이 수식한다. 전체적으로 의문문이므로 의문사 how(어떻게)로 문장을 시작하고 주어 we(우리는)와 조동사 can(~할 수 있다)를 의문문 어순에 맞춰 can we의 순서로 의문사 뒤에 위치시킨다.
+
+[OMR뷰어]
+⌧
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_19~24문항
+
+[대발문]
+다음 글을 읽고 물음에 답하시오.
+
+[대발문코드]
+
+
+[문항수]
+6
+
+[지문]
+Things (A)_______ Are ㉮[Easy/Hard] to Change
+
+Your Messy Room_ You clean it up. ㉠Then you bring new stuff into it, and it ㉡soon gets ⓐ_______ again. But don’t worry. Your room is much ⓑ_______ than mine.
+
+Your Family_ There is always someone in your family (B)_______ ㉯여러분을 정신적으로 힘들게 몰아 가다. Remember that he or she is ㉢still a member of your family. You ㉣just have to live together and care for each other.
+
+Your Name on Your Teacher’s List_ If you are late or do not behave, your teacher will put your name on his or her list. You cannot ㉤hardly change the list.
+
+[문제]
+이 글의 내용과 일치하지 않는 것은?
+⓵ 방을 청소해도 곧 새로운 물건을 들인다.
+⓶ 가족 중 정신적으로 힘들게 하는 사람이 꼭 있다.
+⓷ 힘들게 하는 가족과는 연을 끊고 다시는 보지 않으면 된다.
+⓸ 지각하거나 예의없이 행동하면 학교 선생님의 명단에 오른다.
+⓹ 학교 선생님의 명단에 일단 올라간다면 이를 바꾸기란 쉽지 않다.
+
+[문항코드]
+
+
+[정답]
+⓷
+
+[채점수식]
+3
+
+[해설]
+아무리 힘들게 하고 괴롭히고 미칠 지경으로 몰고가더라도 가족이니 함께 살고 서로 잘 챙겨주고 보살펴야 한다고 하므로, 연을 끊고 다시 보지 않으면 된다는 것은 주어진 글의 내용과 일치하지 않는다.
+
+[문제]
+빈칸 ⓐ, ⓑ에 알맞은 말을 순서대로 고른 것은?
+⓵ clean – clean
+⓶ clean – messy
+⓷ messy – messy
+⓸ messy – cleaner
+⓹ messier – cleaner
+
+[문항코드]
+
+
+[정답]
+⓸
+
+[채점수식]
+4
+
+[해설]
+문맥상 화자는 지저분한 방을 치웠고, 그리고나서 새로운 물건을 들임에 따라 방이 금세 다시 지저분해져야 하므로 빈칸ⓐ에는 messy(지저분한, 어수선한)가 잘 어울린다. 그 이후 걱정하지 말라고 하면서 내 방과 여러분의 방을 비교하는 화자는 ‘내 방보다 여러분이 방이 훨씬 더 깨끗하다’고 말하는 것이 적절하다. 따라서 비교급으로 cleaner(더 깨끗한)가 빈칸ⓑ에 들어가야 한다.
+
+[문제]
+빈칸 (A), (B)에 공통으로 들어갈 단어로 알맞은 것은?
+⓵ who
+⓶ that
+⓷ whom
+⓸ which
+⓹ whose
+
+[문항코드]
+
+
+[선지배열]
+3
+
+[정답]
+⓶
+
+[채점수식]
+2
+
+[해설]
+선행사 things와 someone (in your family)를 수식하는 관계대명사절을 이끄는 관계대명사가 들어가기에 적합하고, 사물 things(일들, 많은 것들), 사람 someone(누군가)에 모두 사용될 수 있어야 하므로 관계대명사 that이 필요하다.
+ 
+[문제]
+밑줄 친 ㉠~㉤의 쓰임이 어색한 것은?
+⓵ ㉠
+⓶ ㉡
+⓷ ㉢
+⓸ ㉣
+⓹ ㉤
+
+[문항코드]
+
+
+[선지배열]
+5
+
+[정답]
+⓹
+
+[채점수식]
+5
+
+[해설]
+㉤hardly는 ‘거의 ~않게’의 의미로 이미 부정적인 의미를 담고 있어서 부정어 not이 포함되어 있는 문장에 쓰기에 적합하지 않다. 문맥상 ‘쉽게 명단을 변경할 수 없다’라는 의미이므로 easily(쉽게, 간단히)가 잘 어울린다.
+
+[문제]
+밑줄 친 ㉯의 우리말을 바르게 영작한 것은?
+⓵ drives you hard
+⓶ drives you crazy
+⓷ make you difficult
+⓸ makes you difficult
+⓹ make you drive crazily
+
+[문항코드]
+
+
+[정답]
+⓶
+
+[채점수식]
+2
+
+[해설]
+‘정신적으로 힘들게 몰아 가다, 미치게 하다’라는 의미는 「drive+사람+crazy」의 숙어로 표현한다.
+
+[문제]
+주어진 글을 Teen Today의 기자가 웹툰 작가를 인터뷰한 내용으로 다시 쓸 때, 밑줄 친 ㉮에 들어갈 단어로 알맞은 것은?
+
+Reporter : What things are ㉮[easy/hard] to change? 
+Raccoon 97: These are ㉮[easy/hard] to change: your messy room, your family and your name on your teacher’s list. 
+
+
+[문항코드]
+
+
+[정답]
+hard
+
+[채점수식]
+hard
+
+[해설]
+주어진 글에서 방을 치워도 다시 더러워지고, 가족이 힘들게 대해도 벗어나기 힘들고, 한번 선생님의 명단에 올라가면 바꾸기 어려운 등으로 삶에서 바꾸기 힘든 것들을 나열하고 있으므로 hard(어려운, 힘든)이 잘 어울린다.
+• 기자 : 어떤 것들이 바꾸기 어렵나요?
+Raccoon 97(웹툰작가) : 이런 것들이 바꾸기 어렵습니다. 여러분의 더러운 방, 여러분의 가족, 그리고 선생님 명단에 올라간 여러분의 이름.
+[메모]
+중2_천재(이)_레슨1_형성평가1단계_25~30번 문항
+
+[대발문]
+다음 글을 읽고 물음에 답하시오.
+
+[대발문코드]
+
+[문항수]
+6
+
+[지문]
+Things (A)_______ Are ㉮[Easy/Hard] to Change
+
+Your Underpants_ If you change them ⓐevery day, your mom will not tell you one hundred and one times.
+
+Your Friends_ You can change your friends. Does it sound ⓑstrangely? You may think (B)_______ you have ⓒthe perfect number of friends. If you (가)그 목록에 새로운 친구를 더하다, however, you will feel ㉯even ⓓbetter than before.
+
+Your Mind_ You thought one thing at first, and now you think ⓔanother thing. That is okay. (나)누군가 말했듯이, “If you can change your mind, you can change your life.”
+
+[문제]
+밑줄 친 ⓐ~ⓔ 중, 어법상 어색한 것은?
+⓵ ⓐ
+⓶ ⓑ
+⓷ ⓒ
+⓸ ⓓ
+⓹ ⓔ
+
+[문항코드]
+
+
+[선지배열]
+5
+
+[정답]
+⓶
+
+[채점수식]
+2
+
+[해설]
+ⓑ strangely → strange : sound는 감각동사로 형용사 보어를 가져야 ‘~하게 들리다’는 의미이므로, 부사 strangely를 형용사 strange로 써야 알맞다.
+ⓐ ‘매일’이라는 의미의 부사일 때 every day로 두 단어로 띄어쓴다. (cf. everyday : ‘매일의’라는 의미의 형용사다.)
+ⓒ 「the number of + 복수명사」는 ‘~의 수’라는 뜻으로 정관사 the와 함께 쓴다.
+ⓓ 비교하는 대상인 before(이전)보다 더 좋게 느낄 것이므로 better than의 비교급으로 표현한다. 여기에서 better는 형용사 good의 비교급으로 감각동사 feel 다음 형용사 보어 자리에 들어간다.
+ⓔ 앞의 one과 대구를 이루며 another를 써서 앞에 언급한 것 말고 또다른 하나를 나타낸다. another(또다른)는 특별한 경우가 아닌 이상에는 늘 단수명사와 함께 쓴다.
+
+[문제]
+밑줄 친 (A), (B)에 공통으로 들어갈 단어를 쓰시오.
+
+[문항코드]
+
+[정답]
+that
+
+[채점수식]
+that
+
+[해설]
+(A)에는 선행사 things을 수식하는 관계대명사절의 관계대명사가 들어가야 하고, (B)에는 동사 think 다음 목적어자리를 차지하는 명사절을 이끄는 접속사가 필요하다. 따라서, 사물 선행사 things 뒤의 주격 관계대명사 that, 명사절 접속사 that이 빈칸 (A), (B)에 공통으로 들어가기에 적합하다.
+
+[문제]
+밑줄 친 (가)의 우리말에 맞도록 다음 빈칸에 들어갈 알맞은 단어를 쓰시오.
+
+____ new friends to the list 
+
+
+[문항코드]
+
+
+[정답]
+add
+
+[채점수식]
+add
+
+[해설]
+‘더하다’는 동사의미가 필요하므로 add를 빈칸에 쓴다.
+
+[문제]
+밑줄 친 (나)의 우리말에 일치하도록 다음 단어를 바르게 배열해 쓰시오.
+
+someone / as / said / (맨 앞 단어 대문자표시)
+
+
+[문항코드]
+
+
+[정답]
+As someone said
+
+[채점수식]
+As someone said
+
+[해설]
+‘~처럼’에 해당하는 접속사 as로 절을 시작하고, 주어 someone(누군가), said(말했다, say의 과거형)를 순서대로 위치시킨다.
+
+[문제]
+밑줄 친 ㉯와 바꿔 쓰기에 어법상 적절하지 않은 것은?
+⓵ far 
+⓶ still
+⓷ a lot
+⓸ many
+⓹ much
+
+[문항코드]
+
+
+[선지배열]
+3
+
+[정답]
+⓸
+
+[채점수식]
+4
+
+[해설]
+비교급 better 앞에서 ‘훨씬 더 ~한’이라는 의미를 더하며 강조하는 부사로는 even, much, far, still, a lot이 있다.
+
+[문제]
+주어진 글을 Teen Today의 기자가 웹툰 작가를 인터뷰한 내용으로 다시 쓸 때, 밑줄 친 ㉮에 들어갈 단어로 알맞은 것은?
+
+Reporter : Then, what things are ㉮[easy/hard] to change? 
+Raccoon 97: These are ㉮[easy/hard] to change: your underpants, your friends and your mind. 
+
+
+[문항코드]
+
+
+[정답]
+easy
+
+[채점수식]
+easy
+
+[해설]
+주어진 글에서 속옷 갈아입기, 새로운 친구를 더하기, 마음이나 생각을 바꾸기는 쉽다고 했으므로, easy(쉬운)이 적절하다.  
+• 기자 : 그렇다면 어떤 것들이 바꾸기 쉽나요?
+Raccoon 97(웹툰작가) : 이런 것들이 바꾸기 쉽습니다. 여러분의 속옷(갈아입기), 여러분의 친구, 여러분의 마음이나 생각.
