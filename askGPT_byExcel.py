@@ -2,7 +2,7 @@ import pandas as pd
 import openai
 
 def askGPT(text):
-    openai.api_key = "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"
+    openai.api_key = "1234"
     response = openai.Completion.create(
         engine = "text-davinci-003",
         prompt = text,
