@@ -2,7 +2,7 @@ import tkinter as tk
 import openai
 
 def askGPT(text):
-    openai.api_key = "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"
+    openai.api_key = "1234"
     response = openai.Completion.create(
         engine = "text-davinci-003",
         prompt = text,
